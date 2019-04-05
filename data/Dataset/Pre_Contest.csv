@@ -1,0 +1,112 @@
+,Prutor ID,Department,Semester,Current CGPA,Rate your problem solving ability on the scale of 1 to 5,Rate your coding proficiency on the scale of 1 to 5,Years of coding experience,How comfortable are you coding in C?,Which language are you most comfortable coding in?
+1,101,B.Tech Computer Science,4,9.52,3,4,2-3 years,4,C/C++/C#
+2,102,M.Tech Computer Science / M.C.A,4,7.8,2,3,2-3 years,3,Python
+3,103,M.Tech Computer Science / M.C.A,4,7.5,4,3,>4 years,4,C/C++/C#
+4,104,M.Tech Computer Science / M.C.A,4th,8.1,3,4,3-4 years,4,C/C++/C#
+5,105,MCA,4,6.68,3,3,<1 year,3,Java
+6,106,B.Tech Computer Science,2,9.25,3,3,<1 year,3,Python
+7,107,M.Tech Computer Science / M.C.A,4,9.26,4,4,1-2 years,3,"Web Based Scripting Languages (Like JS, PHP, etc.)"
+8,108,B.Tech Computer Science,6,9.22,3,2,2-3 years,3,C/C++/C#
+9,109,B.Tech Computer Science,6th,8.83,4,4,2-3 years,4,C/C++/C#
+10,110,B.Tech Computer Science,6,8.9,4,4,2-3 years,4,C/C++/C#
+11,111,B.Tech Computer Science,4,8.38,4,4,2-3 years,5,C/C++/C#
+12,112,,,,,,,,
+13,113,,,,,,,,
+14,114,M.Tech Computer Science / M.C.A,2,8,4,3,2-3 years,4,C/C++/C#
+15,115,M.Tech Computer Science / M.C.A,2nd,7.8,3,3,1-2 years,2,C/C++/C#
+16,116,B.Tech Electrical / Electronics,6,9.1,4,3,2-3 years,5,C/C++/C#
+17,117,B.Tech Computer Science,6,7.7,3,5,1-2 years,5,C/C++/C#
+18,118,B.Tech Computer Science,6,8.9,4,4,1-2 years,4,C/C++/C#
+19,119,B.Tech Electrical / Electronics,6,7.04,3,3,1-2 years,4,Python
+20,120,B.Tech Computer Science,6,9.03,4,4,1-2 years,5,C/C++/C#
+21,121,B.Tech Computer Science,6,9.46,4,4,1-2 years,4,C/C++/C#
+22,122,B.Tech Computer Science,4,9.54,3,2,1-2 years,4,Python
+23,123,M.Tech Computer Science / M.C.A,2,6.1,2,2,1-2 years,3,C/C++/C#
+24,124,M.Tech Computer Science / M.C.A,2,6.8,3,3,1-2 years,3,C/C++/C#
+25,125,B.Tech Computer Science,2nd,8.75,3,3,1-2 years,3,Python
+26,126,B.Tech Computer Science,2,7.6,4,3,1-2 years,3,Python
+27,128,M.Tech Computer Science / M.C.A,2,9.19,2,2,<1 year,2,C/C++/C#
+28,129,M.Tech Computer Science / M.C.A,2,8.38,2,2,<1 year,2,C/C++/C#
+29,130,M.Tech Computer Science / M.C.A,2,7.67,3,3,2-3 years,3,C/C++/C#
+30,131,B.Tech Computer Science,6,9.33,4,4,1-2 years,4,C/C++/C#
+31,132,B.Tech Computer Science,6,8.5,3,3,1-2 years,3,Python
+32,133,B.Tech Computer Science,4,8.516,4,4,1-2 years,4,Python
+33,134,B.Tech Computer Science,6,8.86,4,4,>4 years,5,C/C++/C#
+34,135,B.Tech Computer Science,6,9.08,3,3,2-3 years,3,Python
+35,136,B.Tech Computer Science,4,9.25,4,4,>4 years,4,C/C++/C#
+36,137,B.Tech Computer Science,4,8.45,4,4,1-2 years,5,C/C++/C#
+37,138,B.Tech Computer Science,2nd,8.83,3,3,<1 year,3,C/C++/C#
+38,139,B.Tech Computer Science,6,8.82,5,5,>4 years,3,C/C++/C#
+39,140,M.Tech Computer Science / M.C.A,2,8.05,3,3,>4 years,3,C/C++/C#
+40,141,M.Tech Computer Science / M.C.A,2,6.86,2,2,<1 year,2,C/C++/C#
+41,146,B.Tech Computer Science,6,9.43,4,4,1-2 years,5,Python
+42,147,B.Tech Civil / Mechanical,2,9.1,4,4,3-4 years,3,C/C++/C#
+43,148,B.Tech Computer Science,6,9.76,3,3,2-3 years,4,C/C++/C#
+44,149,B.Tech Computer Science,6,9.27,4,4,1-2 years,5,C/C++/C#
+45,150,B.Tech Computer Science,6,9.9,4,4,>4 years,5,C/C++/C#
+46,151,M.Tech Computer Science / M.C.A,4,6.9,3,3,2-3 years,4,C/C++/C#
+47,152,B.Tech Computer Science,2,8.46,3,3,3-4 years,3,C/C++/C#
+48,153,B.Tech Computer Science,4,8.67,4,3,1-2 years,4,C/C++/C#
+49,154,,,,,,,,
+50,155,B.Tech Computer Science,6,8.56,3,3,3-4 years,3,C/C++/C#
+51,156,B.Tech Computer Science,2,8.38,3,3,<1 year,3,C/C++/C#
+52,157,M.Tech Computer Science / M.C.A,2,8.01,3,3,1-2 years,3,C/C++/C#
+53,158,M.Tech Computer Science / M.C.A,2,8.9,3,3,2-3 years,3,C/C++/C#
+54,159,M.Tech Computer Science / M.C.A,2 nd,8.25,2,2,2-3 years,3,C/C++/C#
+55,160,M.Tech Computer Science / M.C.A,2,8.57,3,2,>4 years,3,C/C++/C#
+56,161,M.Tech Computer Science / M.C.A,2,8.86,3,3,2-3 years,3,C/C++/C#
+57,162,M.Tech Computer Science / M.C.A,2,9.05,4,4,3-4 years,5,C/C++/C#
+58,163,M.Tech Computer Science / M.C.A,2,8.67,3,3,2-3 years,5,C/C++/C#
+59,164,M.Tech Computer Science / M.C.A,2,7.38,3,3,1-2 years,3,C/C++/C#
+60,165,M.Tech Computer Science / M.C.A,2,9.1,3,3,2-3 years,3,C/C++/C#
+61,166,M.Tech Computer Science / M.C.A,2,9.67,3,3,2-3 years,3,C/C++/C#
+62,167,M.Tech Computer Science / M.C.A,2,8.33,3,3,2-3 years,3,C/C++/C#
+63,168,M.Tech Computer Science / M.C.A,2,7.33,3,3,1-2 years,3,Java
+64,169,M.Tech Computer Science / M.C.A,2,7.76,3,4,<1 year,3,C/C++/C#
+65,170,M.Tech Computer Science / M.C.A,2,8.3,3,2,<1 year,2,C/C++/C#
+66,171,M.Tech Computer Science / M.C.A,2,7.38,3,3,2-3 years,3,C/C++/C#
+67,172,M.Tech Computer Science / M.C.A,2,9.14,3,3,<1 year,3,C/C++/C#
+68,173,M.Tech Computer Science / M.C.A,2,8.29,3,3,1-2 years,2,C/C++/C#
+69,174,M.Tech Computer Science / M.C.A,2,9.81,4,3,2-3 years,5,C/C++/C#
+70,175,M.Tech Computer Science / M.C.A,2,9,3,3,2-3 years,4,C/C++/C#
+71,176,M.Tech Computer Science / M.C.A,4,6.7,2,2,2-3 years,2,C/C++/C#
+72,177,M.Tech Computer Science / M.C.A,4th,7.86,4,4,2-3 years,3,Java
+73,178,M.Tech Computer Science / M.C.A,4,8.42,3,3,>4 years,3,"Web Based Scripting Languages (Like JS, PHP, etc.)"
+74,179,MCA,4,6.73,3,3,3-4 years,3,C/C++/C#
+75,180,M.Tech Computer Science / M.C.A,4,7.1,3,3,2-3 years,3,C/C++/C#
+76,181,M.Tech Computer Science / M.C.A,4,7.91,1,1,3-4 years,2,C/C++/C#
+77,181,M.Tech Computer Science / M.C.A,4,7.91,1,1,3-4 years,2,C/C++/C#
+78,183,M.Tech Computer Science / M.C.A,4,7.73,3,2,2-3 years,3,C/C++/C#
+79,184,M.Tech Computer Science / M.C.A,4,6.7,3,2,2-3 years,3,C/C++/C#
+80,185,M.Tech Computer Science / M.C.A,4,9.34,4,4,>4 years,2,Javascript
+81,186,M.Tech Computer Science / M.C.A,4,9.11,3,3,1-2 years,3,"Web Based Scripting Languages (Like JS, PHP, etc.)"
+82,187,M.Tech Computer Science / M.C.A,4th,6.95,3,3,<1 year,3,C/C++/C#
+83,188,M.Tech Computer Science / M.C.A,4,7.1,3,3,1-2 years,2,"Web Based Scripting Languages (Like JS, PHP, etc.)"
+84,191,B.Tech Computer Science,6,7.91,3,3,2-3 years,3,C/C++/C#
+85,192,B.Tech Computer Science,6,9.45,4,4,1-2 years,4,C/C++/C#
+86,193,B.Tech Computer Science,6th sem,9.48,3,3,2-3 years,4,C/C++/C#
+87,194,B.Tech Electrical / Electronics,2,8.75,3,3,2-3 years,3,C/C++/C#
+88,195,B.Tech Computer Science,4,9.29,3,3,1-2 years,3,Python
+89,196,B.Tech Computer Science,4,9.35,4,3,1-2 years,4,C/C++/C#
+90,197,B.Tech Computer Science,6,9.37,4,4,2-3 years,4,C/C++/C#
+91,198,B.Tech Computer Science,4,7.38,1,2,1-2 years,3,Python
+92,199,B.Tech Computer Science,4,8.54,3,3,1-2 years,4,C/C++/C#
+93,200,B.Tech Computer Science,4,9.12,4,4,1-2 years,4,C/C++/C#
+94,201,B.Tech Computer Science,4,9.5,1,1,<1 year,1,RISC-V Assembly
+95,202,B.Tech Computer Science,4,9.97,4,3,2-3 years,5,C/C++/C#
+96,203,B.Tech Computer Science,4,8.72,4,4,1-2 years,5,Python
+97,204,M.Tech Computer Science / M.C.A,4,8.59,3,3,3-4 years,3,C/C++/C#
+98,209,M.Tech Computer Science / M.C.A,4,8.1,3,3,2-3 years,3,Python
+99,210,M.Tech Computer Science / M.C.A,4th,5.5,3,2,<1 year,2,Python
+100,212,M.Tech Computer Science / M.C.A,2,8.71,2,2,<1 year,3,C/C++/C#
+101,213,M.Tech Computer Science / M.C.A,2,8.9,2,2,<1 year,2,C/C++/C#
+102,215,M.Tech Computer Science / M.C.A,2,9.33,2,3,3-4 years,3,Java
+103,216,M.Tech Computer Science / M.C.A,2nd,7.9,3,3,<1 year,3,C/C++/C#
+104,221,MCA,4,7.77,4,3,3-4 years,3,Python
+105,223,M.Tech Computer Science / M.C.A,4,7.5,3,3,2-3 years,3,C/C++/C#
+106,224,M.Tech Computer Science / M.C.A,4,7.55,3,3,1-2 years,2,Java
+107,225,M.Tech Computer Science / M.C.A,4,8.41,4,3,3-4 years,3,Java
+108,226,M.Tech Computer Science / M.C.A,4,8.95,4,3,>4 years,3,C/C++/C#
+109,228,M.Tech Computer Science / M.C.A,2,8.48,3,3,2-3 years,3,C/C++/C#
+110,229,M.Tech Computer Science / M.C.A,2nd,6.8,3,3,1-2 years,2,C/C++/C#
+111,230,M.Tech Computer Science / M.C.A,4,7.6,4,4,3-4 years,4,C/C++/C#
