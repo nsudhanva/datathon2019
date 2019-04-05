@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+docs/\.~itiable_4\.docx
+
+docs/\.~itiable_5\.docx
+
+docs/\.~itiable_1\.docx
