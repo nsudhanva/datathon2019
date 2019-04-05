@@ -2,4 +2,4 @@
 
 # Authors
 * Sudhanva Narayana
-* Karthik G R
+* Karthik Devaraj
